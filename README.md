@@ -1,0 +1,1 @@
+This repository demonstrates a common Dockerfile error and its solution.  The original Dockerfile fails to build due to issues in the build process. The corrected version addresses these issues.
